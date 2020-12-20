@@ -1,0 +1,11 @@
+{
+    "require": {
+        "aportela/db-wrapper": "^1.0",
+        "firebase/php-jwt": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "aportela\\UserManagement\\": "src"
+        }
+    }
+}
